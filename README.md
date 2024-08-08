@@ -1,6 +1,9 @@
 # **Tic-Tac-Toe Game**
 
-Welcome to the **Tic-Tac-Toe Game** project! This project includes both multiplayer and player vs computer versions of the classic tic-tac-toe game. The game is built with HTML, CSS, and JavaScript and provides a seamless and engaging user experience.
+## Project Overview
+
+This project is a web-based Tic-Tac-Toe game built as part of the SkillCraft Technology Task 03. The application allows users to play Tic-Tac-Toe either against another player or against a computer. The game has been designed to be interactive and engaging, with features to handle user clicks, track game state, and check for winning conditions.The game is built with HTML, CSS, and JavaScript and provides a seamless and engaging user experience.
+
 
 ## **Introduction**
 This project is a web-based implementation of the tic-tac-toe game. The game can be played in two modes:
